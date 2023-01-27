@@ -142,7 +142,7 @@ def train(text, epochs=100, save_freq=10, resume=False):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
         description='Train the model on some text.')
-    parser.add_argument('--input', default='input.txt',
+    parser.add_argument('--input', default='quotes.txt',
                         help='name of the text file to train from')
     parser.add_argument('--epochs', type=int, default=100,
                         help='number of epochs to train for')
