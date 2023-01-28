@@ -1,6 +1,6 @@
-#### deprecated  until nvidia makes a proper cudnn for cuda12
+# - Deprecated  until nvidia makes a proper cudnn for cuda12, cuz honestly i aint got a bandwidth and time too reinstall all that crap
 
-# Skete-NN
+## Skete-NN
 - Based on:
 [ekzhang/char-rnn-keras](https://github.com/ekzhang/char-rnn-keras.git "ekzhang repo")
 
